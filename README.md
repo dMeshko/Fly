@@ -21,7 +21,7 @@
 Една од поважните функции е функцијата gameOver() во која се проверува дали птицата се судрила со некој од тунелите (преклопување на два правоаголници) или излегла од границите на формата.
 
 ```C#
-public bool gameOver()
+        public bool gameOver()
         {
             Point birdLeftTop = new Point(bird.X, bird.Y);
             Point birdRightBottom = new Point(bird.X + SQUARE_SIZE, bird.Y + SQUARE_SIZE - 12);
