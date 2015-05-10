@@ -61,3 +61,12 @@ C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cac
 C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.Form1.resources
 C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.Properties.Resources.resources
 C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
+D:\GitHub\Fly\Fly!\bin\Debug\Fly.exe.config
+D:\GitHub\Fly\Fly!\obj\Debug\Fly.exe
+D:\GitHub\Fly\Fly!\obj\Debug\Fly.pdb
+D:\GitHub\Fly\Fly!\bin\Debug\Fly.exe
+D:\GitHub\Fly\Fly!\bin\Debug\Fly.pdb
+D:\GitHub\Fly\Fly!\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+D:\GitHub\Fly\Fly!\obj\Debug\Fly.Form1.resources
+D:\GitHub\Fly\Fly!\obj\Debug\Fly.Properties.Resources.resources
+D:\GitHub\Fly\Fly!\obj\Debug\Fly.csproj.GenerateResource.Cache

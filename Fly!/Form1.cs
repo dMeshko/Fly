@@ -464,7 +464,6 @@ namespace Fly
                         bird.Angle = -30;
 
                     }
-
                 }
             }
             /* else if (e.KeyCode == Keys.Up)
@@ -481,7 +480,6 @@ namespace Fly
                  //autoPilotTimer.Stop();
                  autoPilot = false;
              }*/
-
         }
 
         private Tunnel findMostOptimal()
