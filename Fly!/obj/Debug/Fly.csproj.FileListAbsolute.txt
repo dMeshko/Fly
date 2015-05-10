@@ -1,0 +1,63 @@
+c:\users\dell\documents\visual studio 2013\Projects\Fly\bin\Debug\Fly.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\Fly\bin\Debug\Fly.exe
+c:\users\dell\documents\visual studio 2013\Projects\Fly\bin\Debug\Fly.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Fly\obj\Debug\Fly.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\Fly\obj\Debug\Fly.exe
+c:\users\dell\documents\visual studio 2013\Projects\Fly\obj\Debug\Fly.pdb
+c:\users\dell\documents\visual studio 2013\Projects\Fly\obj\Debug\Fly.Form1.resources
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\Миле\Downloads\Fly (1)\Fly\bin\Debug\Fly.exe.config
+C:\Users\Миле\Downloads\Fly (1)\Fly\obj\Debug\Fly.exe
+C:\Users\Миле\Downloads\Fly (1)\Fly\obj\Debug\Fly.pdb
+C:\Users\Миле\Downloads\Fly (1)\Fly\bin\Debug\Fly.exe
+C:\Users\Миле\Downloads\Fly (1)\Fly\bin\Debug\Fly.pdb
+C:\Users\Миле\Downloads\Fly (1)\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\Миле\Downloads\Fly (1)\Fly\obj\Debug\Fly.Form1.resources
+C:\Users\Миле\Downloads\Fly (1)\Fly\obj\Debug\Fly.Properties.Resources.resources
+C:\Users\Миле\Downloads\Fly (1)\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
+C:\Users\Миле\Downloads\Fly\Fly\bin\Debug\Fly.exe.config
+C:\Users\Миле\Downloads\Fly\Fly\obj\Debug\Fly.exe
+C:\Users\Миле\Downloads\Fly\Fly\obj\Debug\Fly.pdb
+C:\Users\Миле\Downloads\Fly\Fly\bin\Debug\Fly.exe
+C:\Users\Миле\Downloads\Fly\Fly\bin\Debug\Fly.pdb
+C:\Users\Миле\Downloads\Fly\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\Миле\Downloads\Fly\Fly\obj\Debug\Fly.Form1.resources
+C:\Users\Миле\Downloads\Fly\Fly\obj\Debug\Fly.Properties.Resources.resources
+C:\Users\Миле\Downloads\Fly\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
+C:\Users\darrko\Desktop\Fly\bin\Debug\Fly.exe.config
+C:\Users\darrko\Desktop\Fly\obj\Debug\Fly.exe
+C:\Users\darrko\Desktop\Fly\obj\Debug\Fly.pdb
+C:\Users\darrko\Desktop\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\darrko\Desktop\Fly\obj\Debug\Fly.Form1.resources
+C:\Users\darrko\Desktop\Fly\obj\Debug\Fly.Properties.Resources.resources
+C:\Users\darrko\Desktop\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
+C:\Users\darrko\Desktop\Fly\bin\Debug\Fly.exe
+C:\Users\darrko\Desktop\Fly\bin\Debug\Fly.pdb
+C:\Users\Dell\Desktop\Fly\bin\Debug\Fly.exe.config
+C:\Users\Dell\Desktop\Fly\obj\Debug\Fly.exe
+C:\Users\Dell\Desktop\Fly\obj\Debug\Fly.pdb
+C:\Users\Dell\Desktop\Fly\bin\Debug\Fly.exe
+C:\Users\Dell\Desktop\Fly\bin\Debug\Fly.pdb
+C:\Users\Dell\Desktop\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Fly\obj\Debug\Fly.Form1.resources
+C:\Users\Dell\Desktop\Fly\obj\Debug\Fly.Properties.Resources.resources
+C:\Users\Dell\Desktop\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
+C:\Users\Dell\Downloads\Fly\bin\Debug\Fly.exe.config
+C:\Users\Dell\Downloads\Fly\obj\Debug\Fly.exe
+C:\Users\Dell\Downloads\Fly\obj\Debug\Fly.pdb
+C:\Users\Dell\Downloads\Fly\bin\Debug\Fly.exe
+C:\Users\Dell\Downloads\Fly\bin\Debug\Fly.pdb
+C:\Users\Dell\Downloads\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\Fly\obj\Debug\Fly.Form1.resources
+C:\Users\Dell\Downloads\Fly\obj\Debug\Fly.Properties.Resources.resources
+C:\Users\Dell\Downloads\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
+C:\Users\darrko\Desktop\git\Fly\bin\Debug\Fly.exe.config
+C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.exe
+C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.pdb
+C:\Users\darrko\Desktop\git\Fly\bin\Debug\Fly.exe
+C:\Users\darrko\Desktop\git\Fly\bin\Debug\Fly.pdb
+C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.csprojResolveAssemblyReference.cache
+C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.Form1.resources
+C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.Properties.Resources.resources
+C:\Users\darrko\Desktop\git\Fly\obj\Debug\Fly.csproj.GenerateResource.Cache
