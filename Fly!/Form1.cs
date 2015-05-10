@@ -139,7 +139,7 @@ namespace Fly
             //bestScore.Font = new Font("Arial", 30);
             bestScore.Location = new Point(120, MAX_HEIGHT / 4);
             bestScore.ForeColor = Color.White;
-            bestScore.Height = 70;
+            bestScore.Height = 100;
             bestScore.Width = MAX_WIDTH - 100;
             this.Controls.Add(bestScore);
             bestScore.Visible = false;
