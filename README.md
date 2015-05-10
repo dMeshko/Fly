@@ -1,14 +1,12 @@
 # Fly!
 Ова е наша имплементација на “Flappy Bird” со зголемен спектар на визуелни ефекти. Целта на играта е да се соберат што повеќе поени со цел да се надмине тековниот highscore. Птицата лета во околина исполнета со тунели меѓу кои треба да помине безбедно, а во исто време да собере што повеќе поени. 
 
- <!--![Image of Playing Mode](http://i.imgur.com/EDNSF09.png)-->
 <p align = "middle">
  <img src = "http://i.imgur.com/EDNSF09.png" alt = "Playing Mode" />
 </p>
 
 Поените се собираат со поминување помеѓу тунелите(1 поен) и собирање на парички(2 поени). Повремо се појавува power-up со кој птицата преминува во empowered mode и самата си го наоѓа патот помеѓу тунелите во временски период од 4 секунди. Интеракцијата со птицата се прави со притискање на копчето “Space”. Времетраењето на empowered mode може да се види во десниот горен агол, додека поените се следат горе на средина. По истекувањето на empowered mode контролата на птицата се враќа на корисникот.
 
-<!--![Image of Empowered Mode](http://i.imgur.com/NUv14lP.png)-->
 <p align = "middle">
  <img src = "http://i.imgur.com/NUv14lP.png" alt = "Empowered Mode" />
 </p>
@@ -76,14 +74,12 @@
 
 Почетниот екран има едноставен дизајн.
 
-<!--![Image of Home Screen](http://i.imgur.com/H2QN9yf.png)-->
 <p align = "middle">
  <img src = "http://i.imgur.com/sJ6ujZN.png" alt = "Home Screen" />
 </p>
 
 Со клик на “Fly?” се почнува нова игра, а со клик на “Best” може да се види тековниот highscore.
 
-<!--![Image of Highscore](http://i.imgur.com/9HACCf5.png)-->
 <p align = "middle">
  <img src = "http://i.imgur.com/V6yen5E.png" alt = "Highscore" />
 </p>
